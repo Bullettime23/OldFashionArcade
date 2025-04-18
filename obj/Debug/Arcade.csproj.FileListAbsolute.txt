@@ -1,0 +1,12 @@
+C:\Users\letsg\Documents\C# learning\Arcade\bin\Debug\Arcade.exe.config
+C:\Users\letsg\Documents\C# learning\Arcade\bin\Debug\Arcade.exe
+C:\Users\letsg\Documents\C# learning\Arcade\bin\Debug\Arcade.pdb
+C:\Users\letsg\Documents\C# learning\Arcade\obj\Debug\Arcade.csproj.AssemblyReference.cache
+C:\Users\letsg\Documents\C# learning\Arcade\obj\Debug\Arcade.csproj.CoreCompileInputs.cache
+C:\Users\letsg\Documents\C# learning\Arcade\obj\Debug\Arcade.exe
+C:\Users\letsg\Documents\C# learning\Arcade\obj\Debug\Arcade.pdb
+C:\Users\letsg\Documents\C# learning\Arcade\bin\Debug\sfml-audio.dll
+C:\Users\letsg\Documents\C# learning\Arcade\bin\Debug\sfml-graphics.dll
+C:\Users\letsg\Documents\C# learning\Arcade\bin\Debug\sfml-system.dll
+C:\Users\letsg\Documents\C# learning\Arcade\bin\Debug\sfml-window.dll
+C:\Users\letsg\Documents\C# learning\Arcade\obj\Debug\Arcade.csproj.Up2Date
